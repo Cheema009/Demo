@@ -1,0 +1,36 @@
+u:\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\TextEditorWinForms.csprojResolveAssemblyReference.cache
+u:\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\TextEditorWinForms.csproj.GenerateResource.Cache
+u:\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\TextEditor.exe.config
+u:\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\TextEditor.exe
+u:\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\TextEditor.pdb
+u:\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\TextEditor.TextEditorForm.resources
+u:\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\TextEditor.Properties.Resources.resources
+u:\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\TextEditor.exe
+u:\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\TextEditor.pdb
+U:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditor\bin\Debug\TextEditor.exe.config
+U:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditor\bin\Debug\TextEditor.exe
+U:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditor\bin\Debug\TextEditor.pdb
+U:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditor\obj\Debug\TextEditorWinForms.csprojResolveAssemblyReference.cache
+U:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditor\obj\Debug\TextEditor.TextEditorForm.resources
+U:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+U:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditor\obj\Debug\TextEditorWinForms.csproj.GenerateResource.Cache
+U:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditor\obj\Debug\TextEditor.exe
+U:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditor\obj\Debug\TextEditor.pdb
+x:\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+x:\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+x:\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+x:\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+x:\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+x:\Desktop\TextEditor\TextEditor\obj\Debug\TextEditorWinForms.csprojResolveAssemblyReference.cache
+x:\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.TextEditorForm.resources
+x:\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+x:\Desktop\TextEditor\TextEditor\obj\Debug\TextEditorWinForms.csproj.GenerateResource.Cache
+U:\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+U:\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+U:\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+U:\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+U:\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+U:\TextEditor\TextEditor\obj\Debug\TextEditorWinForms.csprojResolveAssemblyReference.cache
+U:\TextEditor\TextEditor\obj\Debug\TextEditor.TextEditorForm.resources
+U:\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+U:\TextEditor\TextEditor\obj\Debug\TextEditorWinForms.csproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+u:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditorTests\bin\Debug\TextEditorTests.dll
+u:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditorTests\bin\Debug\TextEditorTests.pdb
+u:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditorTests\bin\Debug\TextEditor.exe
+u:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditorTests\bin\Debug\TextEditor.pdb
+u:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditorTests\obj\Debug\TextEditorTests.csprojResolveAssemblyReference.cache
+u:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditorTests\obj\Debug\TextEditorTests.dll
+u:\visual studio 2013\Projects\WindowsFormsApplication3\TextEditorTests\obj\Debug\TextEditorTests.pdb
+x:\Desktop\TextEditor\TextEditorTests\bin\Debug\TextEditorTests.dll
+x:\Desktop\TextEditor\TextEditorTests\bin\Debug\TextEditorTests.pdb
+x:\Desktop\TextEditor\TextEditorTests\bin\Debug\TextEditor.exe
+x:\Desktop\TextEditor\TextEditorTests\bin\Debug\TextEditor.pdb
+x:\Desktop\TextEditor\TextEditorTests\obj\Debug\TextEditorTests.csprojResolveAssemblyReference.cache
+x:\Desktop\TextEditor\TextEditorTests\obj\Debug\TextEditorTests.dll
+x:\Desktop\TextEditor\TextEditorTests\obj\Debug\TextEditorTests.pdb
+U:\TextEditor\TextEditorTests\bin\Debug\TextEditorTests.dll
+U:\TextEditor\TextEditorTests\bin\Debug\TextEditorTests.pdb
+U:\TextEditor\TextEditorTests\bin\Debug\TextEditor.exe
+U:\TextEditor\TextEditorTests\bin\Debug\TextEditor.pdb
+U:\TextEditor\TextEditorTests\obj\Debug\TextEditorTests.csprojResolveAssemblyReference.cache
+U:\TextEditor\TextEditorTests\obj\Debug\TextEditorTests.dll
+U:\TextEditor\TextEditorTests\obj\Debug\TextEditorTests.pdb
+U:\TextEditor\TextEditorTests\bin\Debug\Items\test.txt
